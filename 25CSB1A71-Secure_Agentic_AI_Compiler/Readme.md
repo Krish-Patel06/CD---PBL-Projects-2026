@@ -1,7 +1,3 @@
-Here's exactly what to fill in the **"Enter file contents"** field:
-
----
-
 **Title:** Secure Agentic AI Compiler — 25CSB1A71
 
 ---
